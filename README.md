@@ -4,4 +4,4 @@ Using the checkPageBounds function the pacman will reverse his direction once it
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
