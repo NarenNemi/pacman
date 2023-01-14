@@ -4,7 +4,7 @@ Using the checkPageBounds function the pacman will reverse his direction once it
 
 I plan to later on increase the functionality of his movement by allowing users to manipulate where he shall move to.
 
-To use this application simply download all the files then open the index.html file.
+To use this application simply download and extract all the files then open the index.html file.
 
 ## License
 
